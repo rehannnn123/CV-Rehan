@@ -1,0 +1,70 @@
+<p>&lt;!DOCTYPE html&gt;</p>
+<p>&lt;html lang="id"&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&lt;meta charset="UTF-8" /&gt;</p>
+<p>&lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt;</p>
+<p>&lt;title&gt;CV Saya&lt;/title&gt;</p>
+<p>&lt;style&gt;</p>
+<p>&nbsp; body {</p>
+<p>&nbsp;&nbsp;&nbsp; font-family: Arial, sans-serif;</p>
+<p>&nbsp;&nbsp;&nbsp; max-width: 700px;</p>
+<p>&nbsp;&nbsp;&nbsp; margin: 2rem auto;</p>
+<p>&nbsp;&nbsp;&nbsp; padding: 1rem;</p>
+<p>&nbsp;&nbsp;&nbsp; background: #f4f4f9;</p>
+<p>&nbsp;&nbsp;&nbsp; color: #333;</p>
+<p>&nbsp; }</p>
+<p>&nbsp; h1, h2 {</p>
+<p>&nbsp;&nbsp;&nbsp; color: #2c3e50;</p>
+<p>&nbsp; }</p>
+<p>&nbsp; .section {</p>
+<p>&nbsp;&nbsp;&nbsp; margin-bottom: 1.5rem;</p>
+<p>&nbsp; }</p>
+<p>&nbsp; .section-title {</p>
+<p>&nbsp;&nbsp;&nbsp; border-bottom: 2px solid #2980b9;</p>
+<p>&nbsp;&nbsp;&nbsp; padding-bottom: 0.3rem;</p>
+<p>&nbsp;&nbsp;&nbsp; margin-bottom: 0.7rem;</p>
+<p>&nbsp; }</p>
+<p>&nbsp; ul {</p>
+<p>&nbsp;&nbsp;&nbsp; list-style-type: none;</p>
+<p>&nbsp;&nbsp;&nbsp; padding-left: 0;</p>
+<p>&nbsp; }</p>
+<p>&nbsp; li {</p>
+<p>&nbsp;&nbsp;&nbsp; margin-bottom: 0.5rem;</p>
+<p>&nbsp; }</p>
+<p>&lt;/style&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &lt;header&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;h1&gt;M. Rehan Herdiansyah&lt;/h1&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;p&gt;Email: rehan.herdiansyah123@gmail.com | Telepon: 087790689597 | GitHub: github.com/rehannnn123&lt;/p&gt;</p>
+<p>&nbsp; &lt;/header&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;section class="section"&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;h2 class="section-title"&gt;Profil&lt;/h2&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;p&gt;Saya adalah profesional di bidang FNB dengan pengalaman 2 tahun di bagian Server&lt;/p&gt;</p>
+<p>&nbsp; &lt;/section&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;section class="section"&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;h2 class="section-title"&gt;Pengalaman Kerja&lt;/h2&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;ul&gt;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;&lt;strong&gt;Server&lt;/strong&gt; - Kuldesak (2023 - 2025)&lt;/li&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &lt;/section&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;section class="section"&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;h2 class="section-title"&gt;Pendidikan&lt;/h2&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;ul&gt;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;&lt;strong&gt;S.Tr.Li&lt;/strong&gt; - Politeknik Negeri Malang (2025)&lt;/li&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &lt;/section&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;section class="section"&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;h2 class="section-title"&gt;Keahlian&lt;/h2&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;ul&gt;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Mudah beradaptasi&lt;/li&gt;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Dapat berkerja secara berkelompok&lt;/li&gt;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Bisa berbahasa Indonesia, Inggris dan Jerman&lt;/li&gt;</p>
+<p>&nbsp;&nbsp;&nbsp; &lt;/ul&gt;</p>
+<p>&nbsp; &lt;/section&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
